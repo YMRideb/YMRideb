@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YMRideb
 - 👀 I’m interested in books, movies, pretty much pop culture. Music, video games, sports, dogs, none of these in any particular order. 
-- 🌱 I’m currently learning web fundamentals @ CodingDojo
+- 🌱 I’m currently learning web development @ CodingDojo
 - 💞️ I’m looking to collaborate on my work to follow here
 - 📫 How to reach me ridebyukio@gmail.com, discord = Yukio_Rideb#0949
 
