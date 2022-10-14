@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YMRideb
-- 👀 I’m interested in books, movies, pretty much pop culture. Music, video games, sports, dogs, none of these in any particular order. 
-- 🌱 I’m currently learning web development @ CodingDojo
+- 👀 I’m interested in books, music, and nature. Philosophy and skateboarding are two of my favorite pastimes.
+- 🌱 I’m currently developing full stack web application projects.
 - 💞️ I’m looking to collaborate on my work to follow here
-- 📫 How to reach me ridebyukio@gmail.com, discord = Yukio_Rideb#0949
+- 📫 How to reach me ridebyukio@gmail.com || linkedin.com/in/ymrideb/ || discord: Yukio_Rideb#0949
 
 <!---
 YMRideb/YMRideb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
